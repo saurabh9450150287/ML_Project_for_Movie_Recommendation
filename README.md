@@ -123,5 +123,8 @@ cm = confusion_matrix(y_test2, y_pred)
 ```
 
 
+![alt_text](https://i.postimg.cc/FFSN2Hz4/Confusion-matrix.jpg)
+
+
 ## Estimating Model
-- Accuracy = ((190+3272)/(190+3272+570+136))*100
+- Accuracy = ((190+3272)/(190+3272+570+136))*100 = 83.06 %
